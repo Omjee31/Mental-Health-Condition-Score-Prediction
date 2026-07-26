@@ -5,3 +5,4 @@ seaborn
 joblib
 sklearn
 streamlit 
+ipykernal
