@@ -37,7 +37,7 @@ The Random Forest model achieved the highest accuracy and overall performance af
 
 | Home Page | Prediction |Feature Importance |About|
 |-----------|------------|-------------------|-----|
-| ![Home](images/home.png) | ![Prediction](images/prediction.png) | ![Feature Importance](images/feature_importance.png) | [!About](images/about.png)
+| ![Home](images/home_page.png) | ![Prediction](images/prediction_page.png) | ![Feature Importance](images/feature_importance.png) | [!About](images/about.png)
 
 ---
 
