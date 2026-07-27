@@ -1,7 +1,7 @@
 # 🧠 Mental Health Condition Score Prediction using Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
-![ML](https://img.shields.io/badge/Machine%20Learning%20RandomForestClassifier-orange)
+![ML](https://img.shields.io/badge/Machine%20Learning-%20RandomForestClassifier-orange)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-red?logo=streamlit)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
